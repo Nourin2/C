@@ -1,0 +1,58 @@
+region,states,year,population
+0,United States,2010,50099
+1,Northeast Region,2010,30000
+2,Midwest Region,2010,50003
+3,South Region,2013,40000
+4,West Region,2013,70000
+3,Alabama,2013,50020
+4,Alaska,2013,40000
+4,Arizona,2019,40000
+3,Arkansas,2019,40000
+4,California,2019,40000
+4,Colorado,2010,40000
+1,Connecticut,2010,40000
+3,Delaware,2015,40000
+3,District of Columbia,2015,40000
+3,Florida,2015,40000
+3,Georgia,2015,60000
+4,Hawaii,2015,90000
+4,Idaho,2015,50000
+2,Illinois,2017,50000
+2,Indiana,2017,50000
+2,Iowa,2017,50000
+2,Kansas,2017,50000
+3,Kentucky,2017,50000
+3,Louisiana,2017,50000
+1,Maine,2017,50000
+3,Maryland,2016,50000
+1,Massachusetts,2016,50000
+2,Michigan,2016,50000
+2,Minnesota,2016,50000
+3,Mississippi,2016,50000
+2,Missouri,2016,50000
+4,Montana,2010,50000
+2,Nebraska,2010,50000
+4,Nevada,2010,50000
+1,New Hampshire,2011,50000
+1,New Jersey,2011,50000
+4,New Mexico,2011,50000
+1,New York,2011,50000
+3,North Carolina,2012,50000
+2,North Dakota,2015,50000
+2,Ohio,2016,20000
+3,Oklahoma,2012,20000
+4,Oregon,2014,20000
+1,Pennsylvania,2013,20000
+1,Rhode Island,2017,50000
+3,South Carolina,2019,50000
+2,South Dakota,2018,40000
+3,Tennessee,2010,50022
+3,Texas,2016,50099
+4,Utah,2015,50066
+1,Vermont,2014,50077
+3,Virginia,2010,50000
+4,Washington,2013,50030
+3,West Virginia,2010,50444
+2,Wisconsin,2012,50040
+4,Wyoming,2011,50020
+X,Puerto Rico,2010,50055
